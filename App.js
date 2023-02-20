@@ -35,7 +35,7 @@ function App() {
         name="Login"
         component={Login}
         options={{ 
-          headerTitle: () => <Header name="Bug Ninza" />,
+          headerTitle: () => <Header name="Let It" />,
            headerStyle:{
             height:150,
             borderBottomLeftRadius:50,
@@ -50,7 +50,7 @@ function App() {
         name="Registration"
         component={Registration}
         options={{ 
-          headerTitle: () => <Header name="Bug Ninza" />,
+          headerTitle: () => <Header name="Let It" />,
            headerStyle:{
             height:150,
             borderBottomLeftRadius:50,
